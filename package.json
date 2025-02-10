@@ -1,0 +1,20 @@
+{
+  "name": "dd-studio",
+  "version": "1.0.0",
+  "description": "DD Studio is a creative tool for the Doginal Dogs community, allowing users to design and customize pixelated dog scenes with ease. Create, customize, and share your Doginal-inspired art! Test commit for SSH setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
